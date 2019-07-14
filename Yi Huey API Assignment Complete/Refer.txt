@@ -1,0 +1,37 @@
+API 1 = https://got-quotes.herokuapp.com/quotes?char=Brynden%20Tully
+API 2 = https://www.anapioficeandfire.com/api/characters?name=Brynden%20Tully
+
+
+https://server-joei.herokuapp.com/
+https://client-joei.herokuapp.com/
+
+
+Both got
+Cersei Lannister
+Renly Baratheon
+Brynden Tully
+Jaime Lannister
+Jon Snow
+
+
+one side
+Aemon Targaryen
+Aerys I
+Aerys II
+Alyn Estermont
+Aron Santagar
+Balon Greyjoy
+Margaery Tyrell
+Tyrion Lannister
+Tywin Lannister
+Brienne of Tarth
+
+
+Heroku
+username :  joeiteh1188@gmail.com
+password :  JOEy5188.
+
+mlab
+username : blackeinherjar
+password : joey1997
+
